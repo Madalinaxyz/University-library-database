@@ -235,7 +235,7 @@ INSERT INTO status_carte (id_status, stare_status) VALUES
 INSERT INTO status_carte (id_status, stare_status) VALUES
 ('STATUS2','neinchiriata');
 INSERT INTO bibliotecar (id_bibliotecar,nume_bibliotecar,prenume_bibliotecar,data_nasterii_bibliotecar,adresa_bibliotecar,telefon_bibliotecar,cod_facultate) VALUES
-('B1', 'Georgescu','Ana', '14/AUG/1971','Strada Pinului nr 65','0787654547','F1');
+('B1', 'Georgescu','Ana', '14/AUG/1970','Strada Pinului nr 65','0787654547','F1');
 INSERT INTO bibliotecar (id_bibliotecar,nume_bibliotecar,prenume_bibliotecar,data_nasterii_bibliotecar,adresa_bibliotecar,telefon_bibliotecar,cod_facultate) VALUES
 ('B2', 'Neacsu','Elena', '25/DEC/1975','Calea Mosilor nr 25','0722432154','F2');
 INSERT INTO bibliotecar (id_bibliotecar,nume_bibliotecar,prenume_bibliotecar,data_nasterii_bibliotecar,adresa_bibliotecar,telefon_bibliotecar,cod_facultate) VALUES
